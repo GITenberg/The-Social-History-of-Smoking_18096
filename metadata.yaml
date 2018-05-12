@@ -1,0 +1,26 @@
+_repo: The-Social-History-of-Smoking_18096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apperson, George Latimer
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '7804'
+    url: http://www.gutenberg.org/2009/agents/7804
+description: ''
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Smoking'
+title: The Social History of Smoking
+url: http://www.gutenberg.org/ebooks/18096
